@@ -1,6 +1,8 @@
 
 <div align="center">
   <img width='500' height='300' src="https://i.ibb.co.com/QNXgjD0/Your-paragraph-text.png"  />
+  ![Image description](https://i.ibb.co.com/QNXgjD0/Your-paragraph-text.png)
+
 </div>
 
 ###
