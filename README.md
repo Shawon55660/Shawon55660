@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img height="150" src="https://i.ibb.co.com/QNXgjD0/Your-paragraph-text.png"  />
+  <img width='500px' src="https://i.ibb.co.com/QNXgjD0/Your-paragraph-text.png"  />
 </div>
 
 ###
