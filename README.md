@@ -1,8 +1,9 @@
 
 <div align="center">
-  <img width='500' height='300' src="https://i.ibb.co.com/QNXgjD0/Your-paragraph-text.png"  />
+<div align="center">
+  <img width="500" height="300" src="https://i.ibb.co/QNXgjD0/Your-paragraph-text.png" alt="Live Image" />
+</div>
 
-  ![Live Image]([https://www.example.com/image.png](https://i.ibb.co.com/QNXgjD0/Your-paragraph-text.png))
 
 </div>
 
