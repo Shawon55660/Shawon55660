@@ -1,7 +1,7 @@
 
 <div align="center">
 <div align="center">
-  <img width="1300" height="396" src="https://i.ibb.co.com/Q6KKjtT/Shawon-Ahmed-Shadhin-2.png" alt="Live Image" />
+  <img width="1300" height="300" src="https://i.ibb.co.com/Q6KKjtT/Shawon-Ahmed-Shadhin-2.png" alt="Live Image" />
 </div>
 
 
