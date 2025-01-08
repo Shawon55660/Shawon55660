@@ -85,7 +85,6 @@ With these skills, I can build both frontend and backend applications, develop f
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
 
 ###
 
