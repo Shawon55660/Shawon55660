@@ -38,6 +38,7 @@
 
 ## Frontend:
 - 💻 **React.js**: Building user interfaces and single-page applications (SPA).
+- 🟥 **Next.js**: Building SEO friendly website.
 - 🟨 **JavaScript (ES6+)**: Using modern JavaScript features to create dynamic and interactive web applications.
 - 🟥 **HTML5**: Structuring and organizing web content.
 - 🟦 **CSS3**: Styling and designing web pages for a responsive, modern look.
