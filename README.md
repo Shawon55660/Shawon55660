@@ -25,6 +25,16 @@
 
 <h1 align="center">hey there 👋, I'm Shawon Ahmed</h1>
 
+<!-- GitHub Readme Stats -->
+![Shawon's GitHub stats](https://github-readme-stats.vercel.app/api?username=shawonahmed55660&show_icons=true&theme=radical)
+
+<!-- GitHub Readme Streak Stats -->
+![Shawon's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shawonahmed55660&theme=radical)
+
+<!-- Most Used Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawonahmed55660&layout=compact&theme=radical)
+
+
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
