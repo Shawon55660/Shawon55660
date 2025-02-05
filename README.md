@@ -1,7 +1,7 @@
 
 <div align="center">
 <div align="center">
-  <img width="1300" height="300" src="https://i.ibb.co.com/Q6KKjtT/Shawon-Ahmed-Shadhin-2.png" alt="Live Image" /><img width='300' src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawon55660&theme=default&show_icons=true&hide_border=true&layout=compact" alt="shawon55660's GitHub Stats" />
+  <img width="1300" height="300" src="https://i.ibb.co.com/Q6KKjtT/Shawon-Ahmed-Shadhin-2.png" alt="Live Image" />
 </div>
 
 
@@ -26,6 +26,7 @@
 <h1 align="center">hey there 👋, I'm Shawon Ahmed</h1>
 
 <img widht='300' src="https://streak-stats.demolab.com?user=shawon55660&theme=default&hide_border=true" alt="shawon55660's GitHub Stats" />
+<img width='300' src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawon55660&theme=default&show_icons=true&hide_border=true&layout=compact" alt="shawon55660's GitHub Stats" />
 
 
 ###
