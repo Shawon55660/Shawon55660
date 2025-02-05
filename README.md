@@ -25,7 +25,7 @@
 
 <h1 align="center">hey there 👋, I'm Shawon Ahmed</h1>
 
-<img src="https://streak-stats.demolab.com?user=shawon55660&theme=default&hide_border=true" alt="shawon55660's GitHub Stats" />
+<img widht='300' src="https://streak-stats.demolab.com?user=shawon55660&theme=default&hide_border=true" alt="shawon55660's GitHub Stats" />
 
 
 ###
