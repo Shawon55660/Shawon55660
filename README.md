@@ -26,6 +26,7 @@
 <h1 align="center">hey there 👋, I'm Shawon Ahmed</h1>
 
 <!-- GitHub Readme Stats -->
+<img src='https://github-readme-stats.vercel.app/api?username=shawonahmed55660&show_icons=true&theme=radical'/>
 ![Shawon's GitHub stats](https://github-readme-stats.vercel.app/api?username=shawonahmed55660&show_icons=true&theme=radical)
 
 <!-- GitHub Readme Streak Stats -->
